@@ -13,9 +13,6 @@ You can either build from source, or downloads available https://github.com/0xfl
 If there are any features you would like to request, please submit an Issue and I will take a look! Or, feel free
 to contribute to the project!
 
-There is currently a known issue in Linux where the data isn't available on the clipboard system-wide. I'll address
-this soon, working as expected on Windows however.
-
 ## Features
 
 - Read binary data from specified file paths.
