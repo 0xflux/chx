@@ -1,0 +1,12 @@
+[package]
+name = "chx"
+version = "1.0.0"
+edition = "2021"
+
+[profile.release]
+strip = true
+
+[dependencies]
+arboard = "3.3.2"
+base64 = "0.22.0"
+clap = { version = "4.5.4", features = ["derive"] }
