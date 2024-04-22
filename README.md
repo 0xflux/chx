@@ -20,6 +20,13 @@ to contribute to the project!
 - Optionally convert hex dump to base64 encoding.
 - Copy the resulting string directly to the system clipboard.
 
+## Example result:
+
+Here you can see a base64 encoded string as an input, copied to the clipboard by chx. When reversing the base64 string in Cyber Chef, you can clearly see it is in fact a Windows binary.
+
+![image](https://github.com/0xflux/chx/assets/49762827/fb135c64-4a09-48a8-850c-f9074c2bbf96)
+
+
 # Getting started
 
 ## Usage
