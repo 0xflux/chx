@@ -68,7 +68,8 @@ impl Chx {
             self.processed_data = data;
         } else {
             // convert to a u8 byte array
-            let data = self.data.iter().map(|byte| format!(r"\x{:02x}", byte)).collect::<String>();
+            let mut data = self.data.iter().map(|byte| format!(r"0x{:02x},", byte)).collect::<String>();
+            data.truncate(data.len() - 1); // remove trailing comma
             self.processed_data = data;
         }
 
