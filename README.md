@@ -13,6 +13,8 @@ You can either build from source, or downloads available https://github.com/0xfl
 If there are any features you would like to request, please submit an Issue and I will take a look! Or, feel free
 to contribute to the project!
 
+If you like this, please reach out to me on [twitter](https://twitter.com/0xfluxsec). I also have a [Youtube](https://www.youtube.com/@FluxSec) channel and a [blog](https://fluxsec.red/) so please go check those out!
+
 ## Features
 
 - Read binary data from specified file paths.
